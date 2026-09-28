@@ -1,0 +1,11 @@
+id_venta;fecha;id_vendedor;motivo
+1004;2026-09-04;202;Producto 99 inexistente
+1005;2026-09-05;101;Stock insuficiente para el producto 3
+1002;2026-09-06;202;ID de venta repetido
+1006;2026-09-07;303;Vendedor inactivo
+1007;2026-09-08;101;Cantidad inválida para el producto 2
+1008;2026-09-09;202;Producto 7 inactivo
+1009;2026-09-10;101;Producto 5 repetido dentro de la misma venta
+1010;2026-09-11;202;Cantidad inválida para el producto 8
+1012;2026-09-13;101;Lista de productos vacía
+1013;2026-09-14;202;Cantidad inválida para el producto 2

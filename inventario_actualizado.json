@@ -1,0 +1,69 @@
+{
+  "fecha_actualizacion": "2026-09-15",
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Teclado mecánico",
+      "categoria": "Periféricos",
+      "precio": 85000.0,
+      "stock": 6,
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse inalámbrico",
+      "categoria": "Periféricos",
+      "precio": 25000.5,
+      "stock": 14,
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor 24 pulgadas",
+      "categoria": "Pantallas",
+      "precio": 180000.0,
+      "stock": 2,
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Notebook básica",
+      "categoria": "Computación",
+      "precio": 650000.0,
+      "stock": 2,
+      "activo": true
+    },
+    {
+      "id": 5,
+      "nombre": "Auriculares, edición gamer",
+      "categoria": "Sin categoría",
+      "precio": 45000.0,
+      "stock": 8,
+      "activo": true
+    },
+    {
+      "id": 6,
+      "nombre": "Webcam HD",
+      "categoria": "Sin categoría",
+      "precio": 38000.0,
+      "stock": 5,
+      "activo": true
+    },
+    {
+      "id": 7,
+      "nombre": "Impresora láser",
+      "categoria": "Impresión",
+      "precio": 240000.0,
+      "stock": 2,
+      "activo": false
+    },
+    {
+      "id": 8,
+      "nombre": "Hub USB-C 8 en 1",
+      "categoria": "Accesorios",
+      "precio": 72000.75,
+      "stock": 5,
+      "activo": true
+    }
+  ]
+}
